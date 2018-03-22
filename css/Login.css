@@ -6,11 +6,13 @@ body{
     width: 80%;
     height: 80%;
     margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 4%;
 }
 /**/
 #Cuadro1{
     width: 23em;
-    height: 22em;
+    height: 20em;
     margin: 0 auto;
     background-color: #262A2E;
     border-radius: .3em;
@@ -48,4 +50,18 @@ ul li{
     color: #ffffff;
     font-weight: bold;
     font-size: 14px;
+}
+
+#Logo{
+    background-image: url("../img/Esmirna2.png");
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 auto;
+}
+
+#EtiAd{
+    color: #ffffff;
+    font-size: 11pt;
 }

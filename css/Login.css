@@ -50,6 +50,7 @@ ul li{
     color: #ffffff;
     font-weight: bold;
     font-size: 14px;
+    cursor: pointer;
 }
 
 #Logo{

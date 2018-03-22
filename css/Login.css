@@ -1,0 +1,51 @@
+body{
+    background-color: #31353B;
+}
+
+#Cuerpo{
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+}
+/**/
+#Cuadro1{
+    width: 23em;
+    height: 22em;
+    margin: 0 auto;
+    background-color: #262A2E;
+    border-radius: .3em;
+}
+
+ul li{
+    display: block;
+    margin-top: 1em;
+}
+
+#Datos{
+    padding: 0px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#Bien{
+    text-align: center;
+    color: #838791;
+    font-size: 18px;
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+
+#Usuario,#Passw{
+    border-style: none;
+    width: 100%;
+    height: 1.8em;
+}
+
+#BtAceptar{
+    width: 100%;
+    height: 2em;
+    background-color: #1CB469;
+    border-style: none;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+}

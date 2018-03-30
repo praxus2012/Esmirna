@@ -38,8 +38,9 @@ ul li{
 
 #Usuario,#Passw{
     border-style: none;
-    width: 100%;
+    width: 98%;
     height: 1.8em;
+    padding-left: 5px;
 }
 
 #BtAceptar{

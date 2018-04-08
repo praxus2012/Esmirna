@@ -32,6 +32,8 @@ body{
     width: 100%;
     position: absolute;
     left: 0px;
+    top: 0px;
+    margin-top: 120px;
 }
 
 #Clearing{
@@ -41,6 +43,7 @@ body{
 #Central{
     background-color: #722219;
     height: 75vh;
+    margin-top: 155px;
     width: 100.6%;
 }
 #Inferior{
